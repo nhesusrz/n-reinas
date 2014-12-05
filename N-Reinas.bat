@@ -1,0 +1,1 @@
+java -splash:".\N-Reinas\src\nreinas\resources\splash.gif" -jar ".\N-Reinas\dist\N-Reinas.jar"
